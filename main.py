@@ -101,8 +101,6 @@ while not gameover: #GAME LOOP##################################################
         counter = 0
         tailX.insert(0,Px)
         tailY.insert(0,Py)
-    elif counter > 20:
-        counter = 0
         tailX2.insert(0,Px2)
         tailY2.insert(0,Py2)
 
